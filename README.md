@@ -34,4 +34,4 @@ Built with simplicity in mind, this app provides a quick and interactive way to 
 1. **Clone this repository**:
    ```bash
    git clone https://github.com/FavourMtshali/Fake_News_detection-app.git
-   cd news-detection-app
+   cd Fake_News_detection
